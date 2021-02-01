@@ -5,7 +5,8 @@ This software relies on MATLAB for Windows (tested on 2019b but should also work
 
 Clone this repository to the desired location on your PC using cmd and Git:
 Navigate to the location where files will be saved e.g. cd C:\Users\Matt\
-Clone teh repository to this folder: ``` git clone https://github.com/CatchmentSci/Sontek-to-TRDI-ascii-conversion.git ```
+Clone the repository to this folder: 
+``` git clone https://github.com/CatchmentSci/Sontek-to-TRDI-ascii-conversion.git ```
 
 Open Matlab
 Ensure the cloned repository is visible on the matlab path

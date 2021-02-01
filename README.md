@@ -3,7 +3,9 @@ This is a repository providing the necessary files for the conversion of SonTek 
 
 This software relies on MATLAB for Windows (tested on 2019b but should also work for Matlab 2012a onwards)
 
-Clone this repository using Git: ``` git clone https://github.com/CatchmentSci/Sontek-to-TRDI-ascii-conversion.git ```
+Clone this repository to the desired location on your PC using cmd and Git:
+Navigate to the location where files will be saved e.g. cd C:\Users\Matt\
+Clone teh repository to this folder: ``` git clone https://github.com/CatchmentSci/Sontek-to-TRDI-ascii-conversion.git ```
 
 Open Matlab
 Ensure the cloned repository is visible on the matlab path
